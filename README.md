@@ -6,4 +6,4 @@ json-server --watch -p 8000 data/db.json
 4.open one more terminal and write 
 npm run start
 5. providing you the github link too
-https://github.com/chandan9080/my-blog
+https://github.com/chandan9080/my-blog-master
