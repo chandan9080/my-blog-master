@@ -7,4 +7,4 @@ json-server --watch -p 8000 data/db.json
 npm run start
 5. providing you the github link too
 https://github.com/chandan9080/my-blog-master
-6.Deployed Link: "https://bytelearn-task-blog.herokuapp.com/"
+6.Deployed Link: "https://chandan-blog.herokuapp.com/"
